@@ -1,7 +1,23 @@
-# 💫 About Me:
-🔭 Currently Working on: Generative AI, .NET Core, React.js<br>👯 I’m looking to collaborate on: Generative AI<br>🌱 I’m currently learning Prompt Engineering<br>💬 Ask me about certifications and GenAI roadmaps<br>⚡ Fun fact: I don't own a cat
 
-# 💻 Tech Stack:
+###
+    
+  <h1> 💫 About Me:   </h1>
+  
+  <img align="right" height="250" src="https://randommeme-five.vercel.app/"  />
+  
+  <div align="left">
+   <br> 🔭 Currently Working on: Generative AI, .NET Core, React.js
+   <br> 👯 I’m looking to collaborate on: Generative AI
+   <br> 🌱 I’m currently learning Prompt Engineering
+   <br> 💬 Ask me about certifications and GenAI roadmaps
+   <br> <b>⚡ Fun fact: I don't own a cat </b>
+  </div>
+
+###
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -25,20 +41,32 @@
 </div>
 
 ###
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anchal Panda) 
+<div align="left">
+<div align="left">
+  <a href=""><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://linkedin.com/in/Anchal Panda"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+</div>
+
+###
+</div>
+
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anchal Panda&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anchal Panda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal Panda&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Anchal-Panda/Anchal-Panda/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anchal Panda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
